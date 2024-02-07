@@ -28,4 +28,4 @@ Procesamos los datos par el conjunto de los items que posee cada usuario, elimin
 Teniendo los 3 datasets limpios, se realizó un proceso de EDA para realizar gráficos y así entender las estadísticas, encontrar valores atípicos y orientar un futuro análisis.
 
 Top 5 de juegos mas jugados
-<p align="center"><img src="https://ibb.co/Phm9r1N"></p> height=400
+<p align="center"><img src="https://ibb.co/Phm9r1N"></p>
