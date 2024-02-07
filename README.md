@@ -89,14 +89,17 @@ Se implementará una API utilizando FastAPI. [Aquí está el enlace](https://pim
 
 Las siguientes son las funciones para los endpoints:
 
-- developer(desarrollador: str): Retorna la cantidad de ítems y el porcentaje de contenido gratis por año para un desarroll
+- **developer**(desarrollador: str): Retorna la cantidad de ítems y el porcentaje de contenido gratis por año para un desarrollador dado.
 
-ador dado.
-- userdata(usuario: str): Retorna el dinero gastado, cantidad de ítems y el porcentaje de comentarios positivos en la revisión para un usuario dado.
-- UserForGenre(genero: str): Retorna al usuario que acumula más horas para un género dado y la cantidad de horas por año.
-- best_developer_year(año: int): Retorna los tres desarrolladores con más juegos recomendados por usuarios para un año dado.
-- developer_reviews_analysis(desarrollador): Retorna como parámetro el nombre de una desarrolladora (str) y devuelve el total de revisiones positivas y negativas que tiene.
-- recomendacion_usuario(usuario): Retorna como parámetro el nombre de un usuario (str) y devuelve una lista de los 5 juegos recomendados para ese usuario.
+- **userdata**(usuario: str): Retorna el dinero gastado, cantidad de ítems y el porcentaje de comentarios positivos en la revisión para un usuario dado.
+
+- **UserForGenre**(genero: str): Retorna al usuario que acumula más horas para un género dado y la cantidad de horas por año.
+
+- **best_developer_year**(año: int): Retorna los tres desarrolladores con más juegos recomendados por usuarios para un año dado.
+
+- **developer_reviews_analysis**(desarrollador): Retorna como parámetro el nombre de una desarrolladora (str) y devuelve el total de revisiones positivas y negativas que tiene.
+
+- **recomendacion_usuario**(usuario): Retorna como parámetro el nombre de un usuario (str) y devuelve una lista de los 5 juegos recomendados para ese usuario.
 
 ### Video
 
@@ -106,6 +109,4 @@ ador dado.
 
 - Correo Electrónico: luciana.tte8@gmail.com
 - LinkedIn: [Luciana Chutte](https://www.linkedin.com/in/lucianachutte/)
-```
 
-Asegúrate de reemplazar `[Enlace al video]` con el enlace correcto a tu video.
