@@ -100,7 +100,7 @@ Las siguientes son las funciones para los endpoints:
 
 ### Video
 
-[Enlace al video]
+https://drive.google.com/file/d/1rA3qM8f6WDFuBitSL4cEQVSs_lC8NpfN/view?usp=drive_link
 
 ### Contacto
 
