@@ -1,6 +1,3 @@
-Para que el markdown se vea correctamente en GitHub, necesitas ajustar algunos elementos. Aquí tienes una versión reformateada:
-
-```markdown
 # PIMLops
 
 ## PROYECTO INDIVIDUAL Nº1
@@ -109,4 +106,5 @@ Las siguientes son las funciones para los endpoints:
 
 - Correo Electrónico: luciana.tte8@gmail.com
 - LinkedIn: [Luciana Chutte](https://www.linkedin.com/in/lucianachutte/)
+
 
